@@ -2,7 +2,6 @@
 <h1 align="center">hii 👋, i'm jj4giya</h1>
 <h3 align="center">I have no idea what I'm doing, but I'm having fun! (●'◡'●)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/p51HUMLXK70AAAAC/hi-twice.gif">
-<p align="left"> <a href="https://twitter.com/jj4giya" target="blank"><img src="https://img.shields.io/twitter/follow/jj4giya?logo=twitter&style=for-the-badge" alt="jj4giya" /></a> </p>
 
 - 🔭 I’m currently working on [ITY](https://github.com/jj4giya/ity)
 
