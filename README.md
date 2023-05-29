@@ -3,14 +3,12 @@
 <h3 align="center">I have no idea what I'm doing, but I'm having fun! (●'◡'●)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/p51HUMLXK70AAAAC/hi-twice.gif">
 
-- 🔭 I’m currently working on [ITY](https://github.com/jj4giya/ity)
-
-- ⚡ **if i'm not here then i'm watching an anime or a kdrama**
+Busy with my Chinese language classes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jj4giya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jj4giya" height="30" width="40" /></a>
 <a href="https://instagram.com/jj4giya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jj4giya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jj4giya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jj4giya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@jj4giya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jj4giya" height="30" width="40" /></a>
 </p>
 
