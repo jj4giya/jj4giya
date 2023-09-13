@@ -1,9 +1,8 @@
-![MasterHead](https://i.pinimg.com/originals/09/63/50/09635075424e1fe559d51b3b3aef1251.jpg)
 <h1 align="center">hii 👋, i'm jj4giya</h1>
 <h3 align="center">I have no idea what I'm doing, but I'm having fun! (●'◡'●)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/p51HUMLXK70AAAAC/hi-twice.gif">
 
-Busy with my Chinese language classes
+yeah i'm in the i don't know anything phase again.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
