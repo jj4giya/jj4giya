@@ -7,7 +7,5 @@ yeah i'm in the i don't know anything phase again.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jj4giya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jj4giya" height="30" width="40" /></a>
-<a href="https://instagram.com/jj4giya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jj4giya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@jj4giya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jj4giya" height="30" width="40" /></a>
 </p>
 
